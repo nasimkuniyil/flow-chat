@@ -6,7 +6,7 @@ Real-time chat application built with the **MENN** stack.
 
 - **MongoDB** – Database for users & messages
 - **Express** → Node.js backend framework
-- **Next.js** – React framework for frontend (App Router, SSR/SSG)
+- **Next.js** – React framework for frontend
 - **Node.js** – Runtime
 
 - ## Project Structure
